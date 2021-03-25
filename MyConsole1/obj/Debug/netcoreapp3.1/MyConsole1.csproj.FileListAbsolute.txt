@@ -1,0 +1,13 @@
+C:\Dev\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.exe
+C:\Dev\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.deps.json
+C:\Dev\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.runtimeconfig.json
+C:\Dev\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.runtimeconfig.dev.json
+C:\Dev\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.dll
+C:\Dev\MyConsole1\bin\Debug\netcoreapp3.1\MyConsole1.pdb
+C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.csprojAssemblyReference.cache
+C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.AssemblyInfoInputs.cache
+C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.AssemblyInfo.cs
+C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.csproj.CoreCompileInputs.cache
+C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.dll
+C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.pdb
+C:\Dev\MyConsole1\obj\Debug\netcoreapp3.1\MyConsole1.genruntimeconfig.cache
